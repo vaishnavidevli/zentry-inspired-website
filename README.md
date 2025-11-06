@@ -27,7 +27,11 @@ I built this project by following [Adrian Hajdin’s YouTube tutorial](https://w
 
 ---
 
+Here's the live link : https://zentry-inspired-website.onrender.com/
+
 Here's the preview
+
+
 
 
 https://github.com/user-attachments/assets/38c11920-b2d7-47f8-a97f-7cebee20d7e8
